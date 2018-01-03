@@ -1,0 +1,2 @@
+# electroneum
+electroneum mining
